@@ -11,6 +11,37 @@ dist/
 # IDE files
 .vscode/
 
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (if you don't want to publish the CSVs, uncomment)
+# X_train-2.csv
+# X_test.csv
+# y_train-1.csv
+
+# Logs
+*.log
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+
 # Data files (if you don't want to publish the CSVs, uncomment)
 # X_train-2.csv
 # X_test.csv
