@@ -40,9 +40,3 @@ Acknowledgements and references
 License
 - This repository contains educational code and example solutions for learning purposes. Reuse for coursework is permitted; for any public distribution, please attribute the original course and instructor.
 
-If you'd like, I can also:
-- Add a `.gitignore` and `requirements.txt`.
-- Initialize a local git repository and prepare instructions for pushing to GitHub.
-- Create a small license file (MIT/Apache) if you plan to publish this publicly.
-
-Tell me which of those you'd like me to do next.
